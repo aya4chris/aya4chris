@@ -1,4 +1,4 @@
-# Hi there, I'm [Chris Ayafor]! 👋
+# Hi there, I'm Chris Ayafor! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
