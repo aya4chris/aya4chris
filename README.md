@@ -14,8 +14,6 @@ I'm a passionate **Systems/Infastructure Engineer** with experience in Automatio
 
 ## My Skills 🧠
 
- 	https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white
-
 ![HTML](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![CSS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -23,6 +21,9 @@ I'm a passionate **Systems/Infastructure Engineer** with experience in Automatio
 ![Node.js](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![HTML]()
+![CSS]()
+![JavaScript]()
 
 
 
