@@ -21,10 +21,6 @@ I'm a passionate **Systems/Infastructure Engineer** with experience in Automatio
 ![Node.js](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![HTML]()
-![CSS]()
-![JavaScript]()
-
 
 
 ## Featured Projects 💻
