@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Systems/Infastructure Engineer** with experience in **Automation, CI/CD pipelines, Provisioning and Securing Linux and Windows servers in hybrid infrastructures, and virtualization environments, **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Systems/Infastructure Engineer** with experience in Automation, CI/CD pipelines, Provisioning and Securing Linux and Windows servers in hybrid infrastructures, and virtualization environments. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **how to better secure, harden, and automate the security of hybrid infrastructures amidst the rise and adoption of AI globally**
 - 🔭 Working on: **deployment of Nutanix and HPC infrastructures**
@@ -38,6 +38,6 @@ I'm a passionate **Systems/Infastructure Engineer** with experience in **Automat
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/chris-ayafor/))
+- **[LinkedIn]**(https://www.linkedin.com/in/chris-ayafor/)
 
-<img width="895" height="1506" alt="image" src="https://github.com/user-attachments/assets/19e995a6-3be1-4eaf-bec5-4ba59ce46dd0" />
+
